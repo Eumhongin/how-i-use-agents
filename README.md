@@ -1,5 +1,7 @@
 # how-i-use-agents
 
+> By **Kevin (Hongin Eum)** — full-stack engineer, ex-CTO.  →  **[See my portfolio](https://eumhongin.github.io)**
+
 How I actually run AI coding agents on a production product — the work split into
 roles (**plan → design → build → review**), bound by a shared **harness**.
 
